@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    padding: 10px 40px;
+    background: rgba(2, 2, 2, 0.3);
+    border-radius: 20px;
+    position: relative;
+    left: 0;
+    top: 0;
+    color: white;
+}

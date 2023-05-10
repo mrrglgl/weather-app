@@ -1,0 +1,27 @@
+.App {
+  background-image: url("https://s0.rbk.ru/v6_top_pics/media/img/1/30/756560712759301.jpg");
+  background-size: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  color: white;
+}
+
+.City {
+  height: 300px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.Main {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.Prog {
+  display: flex;
+  justify-content: center;
+}
